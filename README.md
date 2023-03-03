@@ -82,13 +82,14 @@ What to include in your submission
 ## Results <a name="results"></a>
 - Which genres are most popular from year to year?</br>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Abhishek20182/Investigate-a-Dataset/master/result-2.png">
+    <img src="Results/genres.PNG">
 </p>
 From the dataframe above we can see each year with it respective best genres of the year.
 
 - What kinds of properties are associated with movies that have high profit?</br>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Abhishek20182/Investigate-a-Dataset/master/result-2.png">
+    <img src="Results/film properties 1.PNG">
+    <img src="Results/film properties 2.PNG">
 </p>
 We arrive to the conclusion that :
 
@@ -98,15 +99,15 @@ We arrive to the conclusion that :
 * the votes are higher for the profitable movies
 we can tell that popularity, budget, vote_average play a role in the profitability of the film.
 
-- Are movie with higher budget profitable?</br>
+- Are movies with higher budget profitable?</br>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Abhishek20182/Investigate-a-Dataset/master/result-3.png">
+    <img src="Results/average budget by profitability.PNG">
 </p>
 we conclude that the non-profitable movies have higher average budgets.
 
-- Do movie with higher budget recieve better ratting?</br>
+- Do movies with higher budget recieve better ratings?</br>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Abhishek20182/Investigate-a-Dataset/master/result-3.png">
+    <img src="Results/average vote by budget.PNG">
 </p>
 we see that movies with higher budget recieves an average rating almost equal to movies with low budget.
 
