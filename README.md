@@ -83,6 +83,8 @@ What to include in your submission
 - Which genres are most popular from year to year?</br>
 <p align="center">
     <img src="Results/genres.PNG">
+    <img src="Results/genres2.PNG">
+    <img src="Results/genres3.PNG">
 </p>
 From the dataframe above we can see each year with it respective best genres of the year.
 
